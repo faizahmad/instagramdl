@@ -1,7 +1,7 @@
 InstagramDL
 ===========
 
-PHP Instagram Downloader
+PHP Instagram media Downloader 
 
 
 An exercise to help myself get aquainted with the PHP language and tapping into API's.
